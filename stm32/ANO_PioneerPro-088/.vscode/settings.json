@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "ano_rc.h": "c",
+        "ano_parameter.h": "c",
+        "ano_imu.h": "c",
+        "ano_pid.h": "c",
+        "ano_locctrl.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

@@ -1,0 +1,5 @@
+float32 x  # 目标X坐标
+float32 y  # 目标Y坐标
+float32 z  # 目标Z坐标
+---
+bool success  # 是否成功设置
